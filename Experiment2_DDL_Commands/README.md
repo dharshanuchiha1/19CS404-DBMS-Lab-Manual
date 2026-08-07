@@ -296,6 +296,8 @@ CREATE TABLE Products (
 
 <img width="1160" height="177" alt="Screenshot 2026-08-07 113952" src="https://github.com/user-attachments/assets/3e64350a-bd0a-41dd-bccb-a91c0b34369e" />
 
+## GRADE:
+<img width="610" height="167" alt="image" src="https://github.com/user-attachments/assets/f6e5705e-bc24-4b3f-b07f-7304574a4203" />
 
 
 ## RESULT
