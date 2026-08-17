@@ -206,7 +206,7 @@ WHERE specialization IS NULL;
 
 <img width="637" height="549" alt="image" src="https://github.com/user-attachments/assets/28ee8f43-4a99-4dba-b717-c63712d6a91c" />
 
-**Gread:**
+**Grade:**
 
 <img width="558" height="203" alt="image" src="https://github.com/user-attachments/assets/40610d07-d705-489d-9f30-b5f236a7b4cb" />
 
